@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-05-20",
+    "mood": 3,
+    "energy": 5,
+    "sleep": 7.0,
+    "note": "Need top feel better"
+  },
+  {
+    "date": "2026-05-21",
+    "mood": 4,
+    "energy": 4,
+    "sleep": 8.0,
+    "note": "Had a good sleep"
+  }
+]
